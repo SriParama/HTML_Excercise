@@ -1,0 +1,56 @@
+body {
+	background-color:#f9f5a7;
+}
+.tableborder{
+	background-color:white;
+	padding:20px;
+}
+.maintable{
+	margin:0px auto;
+	border-collapse:collapse;
+	width:900px;
+	background-color:white;
+	}
+
+.maincontent{
+	padding:10px 10px 10px 10px;
+}
+.mainmenu{
+	padding:10px 10px 10px 10px;
+}
+.leftcontent{
+	padding:10px 10px 10px 10px;
+}
+.title{
+	padding:10px 10px 10px 10px;
+}
+.content{
+	padding:10px 10px 10px 10px;
+}
+.link{
+	padding:10px 10px 0px 10px;
+}
+.link a{
+	color:blue;
+	text-decoration:none;
+	}
+.link a:hover{
+	color:blue;
+	text-decoration:underline;
+	}
+	
+.navtitle{
+	padding:10px 40px 10px 40px;
+}
+.navtitle a{
+	color:white;
+	text-decoration:none;
+	}
+.navtitle a:hover{
+	text-decoration:none;
+	color:blue;
+	}
+.background{
+	background-color:black;
+	color:white;
+}

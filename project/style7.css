@@ -1,0 +1,37 @@
+body{background-color:black;}
+.maintable{border-collapse:collapse; background-color:white; margin:0px auto; width:800px;}
+ /*td{border:1px solid blue}*/
+ 
+.title{color:#F38298; font-family:Arial; font-size:16px; padding:10px; font-weight:bold;}
+.title a{color:#F38298; font-family:Arial; font-size:16px; padding:10px; font-weight:bold; text-decoration:none;}
+
+.ftitle{color:#F38298; font-family:Arial; font-size:16px; padding:10px; font-weight:bold; text-align:center;}
+.ftitle a{color:#F38298; font-family:Arial; font-size:16px; padding:10px; font-weight:bold; text-align:center; text-decoration:none;}
+.title1{color:#DA5771; font-family:monospace; font-size:30px; padding:25px 10px 10px 10px;}
+.title2{color:#F38298; font-family:Arial; font-size:20px; padding:25px 10px 10px 0px;}
+.thcontent{padding:20px;}
+
+.content{color:#B7ADAF; font-family:Arial; font-size:12px; padding:10px;}
+.fcontent{font-family:Arial; font-size:12px;  line-height:20px; text-align:center; text-decoration:none}
+.secondcontent{padding:10px;}
+.second{ background-color:#FCF2F2; }
+.scontent{background-color:white; border:1px solid red;}
+.stable{margin:0px auto;}
+
+.ttable{margin:0px auto;}
+.tcontent{font-family:Arial; font-size:12px;  line-height:20px;}
+
+
+.fifthtable{margin:0px auto;}
+.fftable{padding:20px;}
+.ffcontent{padding:10px 10px 10px 40px; font-family:Arial; font-size:12px;  line-height:20px; }
+.fffcontent{padding:10px 10px 10px 10px; font-family:Arial; font-size:10px;  line-height:20px; }
+
+.sstable{padding:20px 20px 20px 70px;}
+
+.logcontent{color:#B7ADAF; font-family:Arial; font-size:12px; padding:5px; background-color:#FCF2F2;border:0;width:100%;}
+.submit{font-family:Arial; font-size:12px;  line-height:20px; background-color:#DA5771; color:white; text-align:center; padding:5px;}
+
+.footer{background-color:black; color:#B7ADAF; font-family:Arial; font-size:10px; }
+
+

@@ -1,0 +1,29 @@
+body{background-color:#8CBDE1;}
+.maintable{margin:0px auto; border-collapse:collapse; width:900px; }
+.header{padding:8px; background-color:white;}
+
+.left{padding:10px; background-color:white;}
+.leftcontent{background-color:#AFD3EB; padding:5px 10px 0px 2px;}
+.title{color:#1D5174; font-family:Arial; font-weight:bold; font-size:18px; padding:5px;}
+.link{padding:0px 0px 20px 2px; }
+.link a{color:#1779CA; font-family:Arial; font-size:15px; font-weight:bold; text-decoration:none; line-height:18px; }
+.link a:hover{color:#89B8DC; font-family:Arial; font-size:15px; font-weight:bold; text-decoration:underline; line-height:18px;}
+
+.middle{padding:10px; background-color:white;}
+.middlecontent{background-color:#EEF5FB; padding:5px 10px 10px 0px;}
+.title1{color:#498DD8; font-family:Arial; font-weight:bold; font-size:18px; padding:5px;}
+.content{color:#061C37; font-family:Arial; font-size:12px; padding:0px 0px 20px 2px;}
+.content a{color:#1779CA; text-decoration:none; font-family:Arial; font-size:12px;}
+.content a:hover{color:#89B8DC; text-decoration:underline; font-family:Arial; font-size:12px;}
+
+.right{padding:10px; background-color:white;}
+.rightcontent{background-color:#AFD3EB; padding:5px 5px 5px 5px;}
+.title2{color:#1D5174; font-family:Arial; font-weight:bold; font-size:18px; text-align:right; padding:5px; }
+.link1{text-align:right; padding:0px 0px 20px 2px; }
+.link1 a{color:#1779CA; font-family:Arial; font-size:15px;  font-weight:bold; text-decoration:none; text-align:right; line-height:18px; }
+.link1 a:hover{color:#89B8DC; font-family:Arial; font-size:15px; font-weight:bold; text-decoration:underline; text-align:right;}
+
+
+.footer{color:#061C37; font-family:Arial; font-size:12px; padding:0px 0px 20px 2px; background-color:white;}
+.footer a{color:#1779CA; text-decoration:none; font-family:Arial; font-size:12px;}
+.footer a:hover{color:#89B8DC; text-decoration:underline; font-family:Arial; font-size:12px;}
